@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args) 
     {
         int commentCounter = 0;
         VideoList list = new VideoList();
